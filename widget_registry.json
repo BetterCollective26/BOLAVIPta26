@@ -9,5 +9,16 @@
     "created_at_utc": "2026-04-18 22:34:34 UTC",
     "bundle_path": "bundles/bolaviptest.html.json",
     "has_bundle": true
+  },
+  "bv200426.html": {
+    "brand": "BOLAVIP",
+    "table_title": "Table 1",
+    "file": "bv200426.html",
+    "pages_url": "https://bettercollective26.github.io/BOLAVIPta26/bv200426.html",
+    "github_repo_url": "https://github.com/bettercollective26/BOLAVIPta26",
+    "created_by": "amybc",
+    "created_at_utc": "2026-04-20 10:03:39 UTC",
+    "bundle_path": "bundles/bv200426.html.json",
+    "has_bundle": true
   }
 }
